@@ -15,8 +15,7 @@
 <br />
 
 ### 🏗️ Some experience/exposure:
-<img alt="Unity" width="45px" align="left" style="padding-right:10px"
-  src="https://github.com/simon-s-99/simon-s-99/assets/142667693/fa712874-6b47-48a8-a0c4-cfcf1095406b">
+
 
 <!---
 simon-s-99/simon-s-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
