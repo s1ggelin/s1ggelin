@@ -1,6 +1,6 @@
 👋 Andreas Siggelin<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning JavaScript/TypeScript, React.js & HTML/CSS<br/>
+🌱 I’m currently learning JavaScript/TypeScript, Vue, React.js & HTML/CSS<br/>
 
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
@@ -15,7 +15,8 @@
 <br />
 
 ### 🏗️ Some experience/exposure:
-
+<img alt="Java" width="45px" align="left" style="padding-right:10px"
+src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original-wordmark.svg">
 
 <!---
 simon-s-99/simon-s-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
