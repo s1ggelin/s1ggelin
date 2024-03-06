@@ -4,7 +4,7 @@
 
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img alt="HTML" width="45px" align="left" style="padding-right:10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
 <img alt="CSS" width="45px" align="left" style="padding-right:10px"
@@ -15,6 +15,8 @@
 src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img alt="Typescript" width="45px" align="left" style="padding-right:10px"
 src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
+<img alt="VueJS" width="45px" align="left" style="padding-right:10px"
+src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <br />
 <br />
 
