@@ -1,6 +1,6 @@
 👋 Andreas Siggelin<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning JavaScript/TypeScript, Vue, React.js & HTML/CSS<br/>
+🌱 I’m currently learning Blazor and PostgreSQL<br/>
 
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
@@ -17,6 +17,10 @@ src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/
 src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> 
 <img alt="VueJS" width="45px" align="left" style="padding-right:10px"
 src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+<img alt="Blazor" width="45px" align="left" style="padding-right:10px"
+src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg">
+<img alt="Blazor" width="45px" align="left" style="padding-right:10px"
+src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 <br />
 <br />
 
