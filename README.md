@@ -27,8 +27,3 @@ src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/
 ### 🏗️ Some experience/exposure:
 <img alt="Java" width="45px" align="left" style="padding-right:10px"
 src="https://raw.githubusercontent.com/devicons/devicon/v2.16.0/icons/java/java-original-wordmark.svg">
-
-<!---
-simon-s-99/simon-s-99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
