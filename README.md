@@ -1,6 +1,6 @@
 👋 Andreas Siggelin<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning Blazor and PostgreSQL<br/>
+🌱 I’m currently learning Cloud based applications with Docker and RabbitMQ<br/>
 
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
@@ -19,8 +19,10 @@ src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/
 src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 <img alt="Blazor" width="45px" align="left" style="padding-right:10px"
 src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg">
-<img alt="Blazor" width="45px" align="left" style="padding-right:10px"
-src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+<img alt="Docker" width="45px" align="left" style="padding-right:10px" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img alt="RabbitMQ" width="45px" align="left" style="padding-right:10px" 
+src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
 <br />
 <br />
 
