@@ -1,6 +1,6 @@
 👋 Andreas Siggelin<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning Cloud based applications with Docker and RabbitMQ<br/>
+🌱 I’m currently learning Cloud based applications with Docker, RabbitMQ and Kubernetes<br/>
 
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
