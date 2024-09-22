@@ -23,6 +23,8 @@ src="https://img.jsdelivr.com/raw.githubusercontent.com/devicons/devicon/master/
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img alt="RabbitMQ" width="45px" align="left" style="padding-right:10px" 
 src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg">
+<img alt="Kubernetes" width="45px" align="left" style="padding-right:10px" 
+src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
 <br />
 <br />
 
