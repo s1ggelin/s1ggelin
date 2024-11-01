@@ -1,6 +1,6 @@
 👋 Andreas Siggelin<br/>
 👀 Interested in Software Development and IT in general<br/>
-🌱 I’m currently learning Cloud based applications with Docker, RabbitMQ and Kubernetes<br/>
+🌱  am currently enrolled in the Software Production and Delivery course through the .NET Developer program at Teknikhögskolan in Gothenburg, where I am learning agile methodologies, software lifecycle management, testing, and version control to deliver software effectively to end users.<br/>
 
 ### 🥷 Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
