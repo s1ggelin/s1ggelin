@@ -2,7 +2,7 @@
 👀 Interested in Software Development and IT in general<br/>
 🌱 I am currently enrolled in the .NET Developer program at Teknikhögskolan in Gothenburg, where I am learning agile methodologies, software lifecycle management, testing, and version control to effectively deliver software to end users.<br/>
 
-💼 As part of my education, I am currently undertaking my **Work-Based Learning (LIA) internship** at [WCOM AB](https://wcom.se), gaining hands-on experience in real-world software development. You can check out their GitHub [here](https://github.com/WCOM-AB).<br/>
+💼 As part of my education, I am currently undertaking my **Work-Based Learning (LIA) internship** at [WCOM AB](https://wcom.se), gaining hands-on experience in real-world software development. You can check out their GitHub [here](https://github.com/WCOMAB).<br/>
 
 
 ### 🥷 Skillset: 
