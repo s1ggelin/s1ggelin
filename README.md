@@ -5,7 +5,7 @@
 💼 As part of my education, I am currently undertaking my **Work-Based Learning (LIA) internship** at [WCOM AB](https://wcom.se), gaining hands-on experience in real-world software development. You can check out their GitHub [here](https://github.com/WCOMAB).<br/>
 
 
-### 🥷 Skillset: 
+### 🏗️ Skillset: 
 <img alt="C#" width="45px" align="left" style="padding-right:10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img alt="HTML" width="45px" align="left" style="padding-right:10px"
