@@ -1,8 +1,10 @@
-👋 Andreas Siggelin<br/>
-👀 Interested in Software Development and IT in general<br/>
-🌱 I am currently enrolled in the .NET Developer program at Teknikhögskolan in Gothenburg, where I am learning agile methodologies, software lifecycle management, testing, and version control to effectively deliver software to end users.<br/>
+👋 Andreas "Sigge" Siggelin<br/>
+👀 Interested in Software Development and IT in general.<br/>
+🎓 I recently graduated from Teknikhögskolan in Gothenburg as a .NET developer. <br/>
 
-💼 As part of my education, I am currently undertaking my **Work-Based Learning (LIA) internship** at [WCOM AB](https://wcom.se), gaining hands-on experience in real-world software development. You can check out their GitHub [here](https://github.com/WCOMAB).<br/>
+During my education, I built a strong foundation in both backend and frontend development, with a particular focus on cloud-based applications and database management. I have practical experience from projects using technologies such as C#, SQL, JavaScript, Vue.js, and HTML/CSS.
+
+💼 I completed my **Work-Based Learning (LIA) internship** at [WCOM AB](https://wcom.se), where I worked on real-world software development projectes. You can check out their GitHub [here](https://github.com/WCOMAB).<br/>
 
 
 ### 🏗️ Skillset: 
